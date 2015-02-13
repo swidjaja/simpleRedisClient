@@ -1,0 +1,13 @@
+{
+  "name": "simpleRedisClient",
+  "version": "0.0.1",
+  "description": "Simple Redis Client that wraps mranney's awesome Redis module",
+  "main": "index.js",
+  "dependencies": {
+    "redis": ">=0.12.1",
+    "rsvp": ">=3.0.16"
+  },
+  "author": "Sugiharto Widjaja <sugi@s-widjaja.com>",
+  "license": "MIT License",
+  "readmeFilename": "README.md"
+}
